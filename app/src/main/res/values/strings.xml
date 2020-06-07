@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Awesome Quotes</string>
+    <string name="title_quotes">Quotes</string>
+    <string name="title_favorite">Favorites</string>
+    <string name="welcome_message">Welcome to Awesome Quotes</string>
+    <string name="favorite_quotes">Favorite Quotes</string>
+    <string name="random_quote">Random Quote</string>
+</resources>
